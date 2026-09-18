@@ -1,0 +1,6 @@
+{
+  "name": "Asjad Veterinary Hospital",
+  "description": "Premier veterinary hospital and pet care clinic in Sargodha offering comprehensive checkups, surgery, ultrasonography, vaccinations, and 24/7 emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
